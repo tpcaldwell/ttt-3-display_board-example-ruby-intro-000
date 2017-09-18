@@ -2,4 +2,4 @@
 def display_board
   [" ", " ", " " "|", " ", " ", " ", "|", " ", " ", " "]
   end
-  Print display_board
+  print display_board
